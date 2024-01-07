@@ -11,7 +11,7 @@
 1. **Setup**:
     - Clone the repository: 
       ```bash
-      git clone TEA-AIR-E/CF-DDNS
+      git clone t-AIR-e/CF-DDNS
       ```
     - Navigate to the project directory: 
       ```bash
